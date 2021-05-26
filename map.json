@@ -15,7 +15,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/k8Z0qNlwjy8"
+                         "value":"https:\/\/www.youtube.com\/embed\/videoseries?list=PLR7h_0evbYas3DZhVHqdgjFRZ7k8PUBMc"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -33,7 +33,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/drive.google.com\/embeddedfolderview?id=1est_IxnMsAFLXQyxgUXo56lxAJuc-dDT#grid"
+                         "value":"https:\/\/drive.google.com\/embeddedfolderview?id=1daKM8na-uqOnGZ_-Y4BfDJ9A2bAFpdL5#grid"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -51,7 +51,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/drive.google.com\/embeddedfolderview?id=1est_IxnMsAFLXQyxgUXo56lxAJuc-dDT#grid"
+                         "value":"https:\/\/drive.google.com\/embeddedfolderview?id=1gADIUb2m27vepiAWQtuTY20wJi26kD6q#grid"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -69,7 +69,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":".\/pdf.pdf"
+                         "value":".\/Plaquettes_3A_campus.pdf"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1220,7 +1220,7 @@
          "name":"salle_bleue",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
